@@ -5,7 +5,7 @@ This is a solution to the [Chat app CSS illustration](https://www.frontendmentor
 ### Links
 
 - Repository: [GitHub](https://github.com/vrroel/frontendmentor16.chat-app-css-illustration-master)
-- Live Site URL: [GitHub Pages](https://vrroel.github.io/fgitrontendmentor16.chat-app-css-illustration-master/)
+- Live Site URL: [GitHub Pages](https://vrroel.github.io/frontendmentor16.chat-app-css-illustration-master/)
 
 ### Built with
 
